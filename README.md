@@ -11,4 +11,7 @@ The application includes topics like
 - solve problem with UI Main thread
 
 
+## Authors
+
+- [@Kareem Emad](https://github.com/KareemEmadElfrargi)
 
