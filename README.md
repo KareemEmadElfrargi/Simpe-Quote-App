@@ -9,6 +9,8 @@ The application includes topics like
 - used view binding
 - Handling clipboard text on the System
 - solve problem with UI Main thread
+- 
+![Screenshot_20231108_193529](https://github.com/itsroshan137/Horizontal-Swiper/assets/148908216/cadb2158-a4b0-4cf1-b707-d5ce8d1d5b61)
 
 
 ## Authors
